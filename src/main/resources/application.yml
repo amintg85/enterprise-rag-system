@@ -1,1 +1,6 @@
-server:\n  port: 8080\n\nspringdoc:\n  swagger-ui:\n    path: /swagger-ui.html\n
+server:
+  port: 8080
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
